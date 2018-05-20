@@ -41,6 +41,7 @@ public class ContactsFragment extends Fragment {
     public void onStop() {
         Log.d(TAG, "onStop");
         super.onStop();
+
     }
 
     @Override
